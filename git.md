@@ -142,10 +142,6 @@ git stash drop stash@{0}
 git stash clear
 ```
 
-Полезные ссылки:
-
-- [Команда Git stash. Как прятать изменения в Git](https://pingvinus.ru/git/1718)
-
 ## Работа с удалённым репозиторием
 
 ```bash
@@ -536,3 +532,5 @@ git clone git@nas:/volume1/git/project.git
 - [Как в Git перенести commit из одной ветки в другую?](http://paratapok.ru/developer-tools/2593_kak-v-git-perenesti-commit-iz-odnoj-vetki-v-druguyu/)
 
 - [How to undo (almost) anything with Git](https://github.com/blog/2019-how-to-undo-almost-anything-with-git)
+
+- [Команда Git stash. Как прятать изменения в Git](https://pingvinus.ru/git/1718)
