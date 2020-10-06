@@ -527,6 +527,8 @@ git clone git@nas:/volume1/git/project.git
 
 - [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet#github-cheat-sheet-)
 
+- [Как следует писать комментарии к коммитам](https://habr.com/ru/post/416887/)
+
 - [Git: объясните «на пальцах» разницу между rebase и cherry-pick?](https://qna.habr.com/q/28207)
 
 - [Как в Git перенести commit из одной ветки в другую?](http://paratapok.ru/developer-tools/2593_kak-v-git-perenesti-commit-iz-odnoj-vetki-v-druguyu/)
